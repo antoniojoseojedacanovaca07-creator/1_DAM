@@ -6,7 +6,7 @@ package com.mycompany.planestudiopoo;
 
 /**
  *
- * @author Usuario
+ * @author Antonio Canovaca
  */
 public abstract class Vehiculo implements Comparable<Vehiculo>{
 
